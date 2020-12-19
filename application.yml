@@ -12,5 +12,3 @@ spring:
    profiles: test
    application:  
       name: microservicecloud-config-admin-test
-
-https://github.com/zbwandcy/oneRespository.git
